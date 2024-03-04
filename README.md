@@ -12,7 +12,7 @@ This project follows the Model-View-Controller (MVC) architectural pattern. MVC 
 
 The MVC architecture promotes the separation of concerns, making it easier to manage, maintain, and scale the application.
 
-|
+```|
 |-- src/
 | |-- img/
 | |-- js/
@@ -35,6 +35,7 @@ The MVC architecture promotes the separation of concerns, making it easier to ma
 |-- package-lock.json
 |-- pacckage.json
 |\_\_ README.md
+```
 
 ## How to use
 
